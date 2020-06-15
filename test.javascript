@@ -1,3 +1,3 @@
 This is test java script
 
-Version 2
+Version 3
